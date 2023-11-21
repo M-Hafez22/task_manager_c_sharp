@@ -1,0 +1,14 @@
+/mnt/394aef42-8a51-4a35-984a-2850400e7e6e/home/hafez/Projects/C#/task_manager_c_sharp/bin/Debug/net7.0/task_manager_c_sharp
+/mnt/394aef42-8a51-4a35-984a-2850400e7e6e/home/hafez/Projects/C#/task_manager_c_sharp/bin/Debug/net7.0/task_manager_c_sharp.deps.json
+/mnt/394aef42-8a51-4a35-984a-2850400e7e6e/home/hafez/Projects/C#/task_manager_c_sharp/bin/Debug/net7.0/task_manager_c_sharp.runtimeconfig.json
+/mnt/394aef42-8a51-4a35-984a-2850400e7e6e/home/hafez/Projects/C#/task_manager_c_sharp/bin/Debug/net7.0/task_manager_c_sharp.dll
+/mnt/394aef42-8a51-4a35-984a-2850400e7e6e/home/hafez/Projects/C#/task_manager_c_sharp/bin/Debug/net7.0/task_manager_c_sharp.pdb
+/mnt/394aef42-8a51-4a35-984a-2850400e7e6e/home/hafez/Projects/C#/task_manager_c_sharp/obj/Debug/net7.0/task_manager_c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/394aef42-8a51-4a35-984a-2850400e7e6e/home/hafez/Projects/C#/task_manager_c_sharp/obj/Debug/net7.0/task_manager_c_sharp.AssemblyInfoInputs.cache
+/mnt/394aef42-8a51-4a35-984a-2850400e7e6e/home/hafez/Projects/C#/task_manager_c_sharp/obj/Debug/net7.0/task_manager_c_sharp.AssemblyInfo.cs
+/mnt/394aef42-8a51-4a35-984a-2850400e7e6e/home/hafez/Projects/C#/task_manager_c_sharp/obj/Debug/net7.0/task_manager_c_sharp.csproj.CoreCompileInputs.cache
+/mnt/394aef42-8a51-4a35-984a-2850400e7e6e/home/hafez/Projects/C#/task_manager_c_sharp/obj/Debug/net7.0/task_manager_c_sharp.dll
+/mnt/394aef42-8a51-4a35-984a-2850400e7e6e/home/hafez/Projects/C#/task_manager_c_sharp/obj/Debug/net7.0/refint/task_manager_c_sharp.dll
+/mnt/394aef42-8a51-4a35-984a-2850400e7e6e/home/hafez/Projects/C#/task_manager_c_sharp/obj/Debug/net7.0/task_manager_c_sharp.pdb
+/mnt/394aef42-8a51-4a35-984a-2850400e7e6e/home/hafez/Projects/C#/task_manager_c_sharp/obj/Debug/net7.0/task_manager_c_sharp.genruntimeconfig.cache
+/mnt/394aef42-8a51-4a35-984a-2850400e7e6e/home/hafez/Projects/C#/task_manager_c_sharp/obj/Debug/net7.0/ref/task_manager_c_sharp.dll
